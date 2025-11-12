@@ -226,7 +226,7 @@ ul {
 }
 
 .product__image {
-    max-width: 420px;
+    max-width: 300px;
     max-height: 250px;
     width: auto;
     height: auto;
@@ -346,4 +346,8 @@ ul {
         grid-template-columns: repeat(3, 1fr);
         max-width: 1160px;
     }
+
+    .product__image {
+    max-width: 450px;
+}
 }
